@@ -1,5 +1,5 @@
 # Blog-post
-This project is made using Python and Flask framework. it is a social media website where you can share your thoughts and comment on others' posts.
+tThiss project is made using Python and Flask framework. it is a social media website where you can share your thoughts and comment on others' posts.
 
 <h3> Features </h3>
 
